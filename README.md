@@ -40,7 +40,7 @@ wound assessment — the same framework I used at the bedside.
 
 ## Results
 
-![Tissue Analysis](tissue_analyse_resultaat.png)
+![Tissue Analysis](tissue_analyse_resultaat-2.png)
 
 ![Training Curves](training_curves.png)
 
