@@ -38,6 +38,12 @@ tissue colours inside it, and returns a percentage breakdown.
 This maps directly onto the T (Tissue) component of TIME 
 wound assessment — the same framework I used at the bedside.
 
+## Results
+
+![Tissue Analysis](tissue_analyse_resultaat.png)
+
+![Training Curves](training_curves.png)
+
 ---
 
 ## Performance
